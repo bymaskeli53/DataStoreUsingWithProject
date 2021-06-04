@@ -1,0 +1,2 @@
+rootProject.name = "DataStoreLearningKotlin"
+include ':app'
